@@ -106,5 +106,4 @@ The app provides a beautiful and responsive interface using Streamlit, with:
 
 ---
 
-Made with ❤️ and Streamlit by Yomna Mahsoob
 
