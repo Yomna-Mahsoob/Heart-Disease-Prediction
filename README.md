@@ -68,11 +68,6 @@ pip install -r requirements.txt
 streamlit run ui/app.py
 ```
 
-5. **(Optional) Host using Ngrok**
-
-```bash
-ngrok http 8501
-```
 
 ---
 
@@ -112,3 +107,4 @@ The app provides a beautiful and responsive interface using Streamlit, with:
 ---
 
 Made with ❤️ and Streamlit by Yomna Mahsoob
+
